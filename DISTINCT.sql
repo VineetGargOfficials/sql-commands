@@ -1,0 +1,4 @@
+SELECT dept FROM emp;
+
+SELECT DISTINCT dept FROM emp;
+
